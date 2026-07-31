@@ -1,5 +1,6 @@
-# E-commerce Sales Analysis Dashboard
-
+# Project Title / Headline
+ E-commerce Sales Analysis Dashboard
+ 
 ## 📊 Overview
 An interactive Power BI dashboard built to analyze e-commerce sales performance, 
 providing insights into profit, revenue, customer behavior, and regional trends.
