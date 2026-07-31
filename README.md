@@ -23,7 +23,7 @@ providing insights into profit, revenue, customer behavior, and regional trends.
 `ECOMMERSE_SALES_PROJECT.pbix` — open in Power BI Desktop to explore the full interactive report
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/the-piyush-kumar/Piyush_store_analysis/blob/main/dashboard_sale.png)
 
 ## 💡 What I Learned
 - Building interactive, business-ready dashboards with cross-filtering
